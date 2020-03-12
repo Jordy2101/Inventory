@@ -1,0 +1,8 @@
+C:\Users\jordy\source\repos\Inventory\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.deps.json
+C:\Users\jordy\source\repos\Inventory\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.dll
+C:\Users\jordy\source\repos\Inventory\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.pdb
+C:\Users\jordy\source\repos\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.csprojAssemblyReference.cache
+C:\Users\jordy\source\repos\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.AssemblyInfo.cs
+C:\Users\jordy\source\repos\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.dll
+C:\Users\jordy\source\repos\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.pdb
